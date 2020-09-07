@@ -11,7 +11,7 @@ body {
 hr {
     border-color: $theme-primary;
     border-width: 3px;
-    max-width: 50px;
+    max-width: 350px;
 }
 
 hr.light {
@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/header3.jpg');
     text-align: center;
     color: white;
     .header-content {
